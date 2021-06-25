@@ -1,0 +1,20 @@
+{
+  "overview": "Übersicht",
+  "tasks": "Aufgaben",
+  "notes": "Notizen",
+  "title": "Manager",
+  "docId": "ID",
+  "docType": "Typ",
+  "docTitle": "Titel",
+  "docCreateDate": "Erstelldatum",
+  "docDueDate": "Fälligkeitsdatum",
+  "docHasGuidelines": "Richtlinien",
+  "docFontSize": "Schriftgröße",
+  "docLineHeight": "Zeilenhöhe",
+  "docParagraphSpacing": "Absatzabstand",
+  "docFontFamily": "Schriftart",
+  "docPageMargins": "Seitenränder",
+  "docAlignText": "Textausrichtung",
+  "docCitationRule": "Zitatsregel",
+  "docPageNumberPosition": "Seitenzahlposition"
+}
